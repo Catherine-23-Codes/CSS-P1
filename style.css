@@ -1,0 +1,15 @@
+/* CSS= add style */
+/* h1{ // here h1 is selector
+     //color= property   color:red;  red=value
+}*/
+
+
+/* Ways to add style to our html docx using CSS
+
+Method 1: Inline elem: It's very time consuming and also
+          can't add tags like h1 tags multiple times
+
+Method 2: Using a style tag inside header tag
+
+Method 3: Universally we use this
+        Including stylesheets

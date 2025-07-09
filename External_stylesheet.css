@@ -1,0 +1,14 @@
+h1 {
+  color: rgb(80, 242, 71);
+  background-color: rgb(139, 182, 168);
+}
+
+h2 {
+  color: rgba(207, 44, 71, 0.61);
+  background-color: aliceblue;
+}
+
+h3 {
+  color: rgb(187, 131, 62);
+  background-color: rgb(230, 230, 161);
+}
