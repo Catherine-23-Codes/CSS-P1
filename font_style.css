@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  text-decoration: dotted green underline;
+  font-size: 40px;
+  letter-spacing: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
+p {
+  letter-spacing: 5px;
+  font-size: 20px;
+  text-decoration: 12px;
+  text-align: center;
+  font-family: fantasy;
+}
